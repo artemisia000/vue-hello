@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Libre Franklin', sans-serif;
+
+    font-family: 'Oxygen', sans-serif;
+
+    font-family: 'Red Hat Mono', monospace;
+    
+}
+
+body{
+    background-color: #bc6f83;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+    padding: 30px;
+    font-weight: 400;
+
+}
